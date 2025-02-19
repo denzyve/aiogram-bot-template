@@ -1,0 +1,4 @@
+aiogram
+colorama
+colorlog
+cachetools
